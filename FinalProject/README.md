@@ -39,6 +39,6 @@ To Login as: <br>
       Username: 1111 (more in department.csv) <br>
       
       <br>
-All files can be copied and run on a local php server. 
+All files can be copied and run on a local php server. The webapplication uses php as it's front end and mysql as it's backend. 
       
  
